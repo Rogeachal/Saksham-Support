@@ -220,5 +220,23 @@ body {
 }
 
 
+/* side page button */
+#pageination {
+    text-align: center;
+}
+.section-p1 {
+    padding: 40px 80px;
+}
+
+
+
+#pageination a {
+    text-decoration: none;
+    background-color: #4CAF50;
+    padding: 15px 20px;
+    border-radius: 4px;
+    color: #fff;
+    font-weight: 600;
+}
 
 
